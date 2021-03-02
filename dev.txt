@@ -1,0 +1,7 @@
+dev
+github-file
+README.md
+test1.txt
+tuesday
+tuesday2
+adding this file after pusing this file to the staaging area  by master
